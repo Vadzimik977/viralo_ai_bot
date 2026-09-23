@@ -52,12 +52,12 @@
 
 <img width="974" height="1106" alt="image" src="https://github.com/user-attachments/assets/b5f3773b-070a-49f2-8516-169d2315cdb6" />
 
-## Генерация последующих контент планов накладывается на предыдущие.
+## ✅ Генерация последующих контент планов накладывается на предыдущие.
 
 <img width="995" height="1107" alt="image" src="https://github.com/user-attachments/assets/7c7bc7ea-879b-4211-b2f6-4af838d6d18e" />
 
 
-## После открытия магазина V-coins кнопка назад дублируется.
+## ✅ После открытия магазина V-coins кнопка назад дублируется.
 
 <img width="1288" height="961" alt="image" src="https://github.com/user-attachments/assets/be32feef-9f74-4280-a227-612bea488bf6" />
 
@@ -134,7 +134,7 @@
 
 <img width="1049" height="908" alt="image" src="https://github.com/user-attachments/assets/74137c80-9340-4073-ad1e-8d5f6442a1f7" />
 
-## Создание обложек во вкладке "Актуальное" работает некорректно.
+## ✅ Создание обложек во вкладке "Актуальное" работает некорректно.
 
 <img width="1168" height="656" alt="image" src="https://github.com/user-attachments/assets/e233a898-2202-4b99-856c-6d7e95e425ad" />
 
@@ -146,7 +146,7 @@
 
 
 
-## После окончания генерации, переходе в соседнюю вкладку "Карусель" и обратно в "Актуальное" - весь результат генерации пропадает.
+## ✅ После окончания генерации, переходе в соседнюю вкладку "Карусель" и обратно в "Актуальное" - весь результат генерации пропадает.
 
 <img width="1004" height="643" alt="image" src="https://github.com/user-attachments/assets/fa40ea87-05e3-4669-bec5-414f4cb2c95d" />
 
@@ -199,7 +199,7 @@
 
 
 
-## После создания полного сценария во вкладке "Идея + Сценарий" за 15 V-coins он не сохраняется в истории.
+## ✅ После создания полного сценария во вкладке "Идея + Сценарий" за 15 V-coins он не сохраняется в истории.
 
 <img width="953" height="1107" alt="image" src="https://github.com/user-attachments/assets/d1d3df75-6481-4848-b7dc-94bb5f2e7d69" />
 
@@ -251,7 +251,7 @@
 <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/60c8684e-f7a0-4d43-a818-7e49419adc02" />
 
 
-## Слишком много текста в блоке аналитика
+## ✅ Слишком много текста в блоке аналитика
 
 <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/bf12c295-26db-42c6-9270-74653f1fd318" />
 
